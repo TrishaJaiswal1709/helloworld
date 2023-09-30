@@ -1,0 +1,5 @@
+#invlude<stdio.h>
+void main()
+{
+printf("helloworld");
+}
